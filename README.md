@@ -118,5 +118,3 @@ They demonstrate:
 
 ## ✅ Author
 **Aman Tiwari**  
-Intern - Python Web Scraping & Data Structuring  
-Yasham Software Services Pvt. Ltd.
