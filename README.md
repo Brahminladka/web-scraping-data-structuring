@@ -1,7 +1,7 @@
 # 🗂️ Web Scraping & Data Structuring Projects – Yasham Software Services Pvt. Ltd.
 
 ## 📌 Overview
-This repository contains **two major Python-based web scraping solutions** developed during my internship at **Yasham Software Services Pvt. Ltd.**:
+This repository contains **two major Python-based web scraping solutions** developed for **Yasham Software Services Pvt. Ltd.**:
 1. **Earth911 Recycling Locator Scraper** – Extracts information about recycling centers from Earth911.com.
 2. **BestBuy Store Locator Scraper** – Collects detailed store data including services and phone numbers from BestBuy.com.
 
